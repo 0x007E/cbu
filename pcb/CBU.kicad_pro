@@ -654,7 +654,7 @@
           "group_by": false,
           "label": "HTL",
           "name": "HTL",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -682,21 +682,9 @@
         },
         {
           "group_by": false,
-          "label": "Vendor",
-          "name": "Vendor",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "VendorId",
-          "name": "VendorId",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "DigiKey",
           "name": "DigiKey",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
